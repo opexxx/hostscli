@@ -4,3 +4,4 @@ flake8==3.2.1
 codeclimate-test-reporter
 coverage
 codecov
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
